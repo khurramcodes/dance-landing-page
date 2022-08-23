@@ -9,6 +9,7 @@
 
 ## :link: [See it live](https://fullstack-js-bc-project-14.netlify.app/)
 
+## ![screenshot](./images/warning.png) **Remember:** It is <ins>Responsive</ins> for most of screen sizes below the width of 1550px wide.
 
 ## :clipboard: Learning Outcomes 
 
